@@ -1,0 +1,298 @@
+torneo_id,nombre,status
+1,4to Centenario Río de Janeiro,Amistoso
+2,Amistoso (internacional),Amistoso
+3,Amistoso (local),Amistoso
+4,Campeonato Charles Mille,Amistoso
+5,Campeonato Competencia,Oficial
+6,Campeonato Competencia - Campeonato Nacional General Artigas,Oficial
+7,Campeonato Competencia - Campeonato de Honor,Oficial
+8,Campeonato Estadio Centenario,Oficial
+9,Campeonato Nacional General Artigas,Oficial
+10,Campeonato Nocturno - Tres Ciudades,Amistoso
+11,Campeonato Pentagonal Amistoso,Amistoso
+12,Campeonato Río de la Plata (Copa Dr. Ricardo Aldao),Oficial
+13,Campeonato Uruguayo,Oficial
+14,Campeonato Uruguayo - Campeonato de Honor,Oficial
+15,Campeonato Uruguayo - Copa (por exiliados del) Pueblo Argentino,Oficial
+16,Campeonato Uruguayo - Copa 10 años del Estadio Luis Tróccoli,Oficial
+17,Campeonato Uruguayo - Copa Asociación de la Prensa,Oficial
+18,Campeonato Uruguayo - Copa Humberto Dorsa,Oficial
+19,Campeonato Uruguayo - Copa Olinda Bozan – Nicolás Mesutti,Oficial
+20,Campeonato Uruguayo - Trofeo (diario) El País,Oficial
+21,Campeonato Uruguayo - Trofeo 50° Aniversario del A.C.U. (Automóvil Club del Uruguay),Oficial
+22,Campeonato Uruguayo - Trofeo Agustín Imbriago,Oficial
+23,Campeonato Uruguayo - Trofeo Héctor Scarone,Oficial
+24,Campeonato Uruguayo - Trofeo Pedro Bernat- Nicolás Messuti,Oficial
+25,Campeonato Vencedores de América,Amistoso
+26,Campeonato de Honor,Oficial
+27,"Copa ""1.000.000 de Vera LTE""",Amistoso
+28,Copa 339 Años de Fundación de Colonia del Sacramento,Amistoso
+29,Copa 342 Años de Fundación de Colonia del Sacramento,Amistoso
+30,Copa 50° Aniversario de Bella Vista,Amistoso
+31,Copa 54° Aniversario de Racing,Amistoso
+32,Copa 63° Aniversario del Club Atlético Peñarol,Amistoso
+33,Copa 75° Aniversario del Club Atlético Peñarol,Amistoso
+34,Copa A. da Guía,Amistoso
+35,Copa AUF Uruguay,Oficial
+36,Copa Alejandro Villanueva,Amistoso
+37,Copa Alicante,Amistoso
+38,Copa Amistad,Amistoso
+39,Copa Aniversario - Bodas de Oro - Copa Aniversario - Bodas de Oro,Amistoso
+40,Copa Antel - Bicentenario del Proceso de Emancipación,Amistoso
+41,Copa Antel de Verano,Amistoso
+42,Copa Año Nuevo Lunar,Amistoso
+43,Copa Banco del Estado,Amistoso
+44,Copa Bayer 04,Amistoso
+45,Copa Bimbo,Amistoso
+46,Copa Bracafé - Copa Banco de Galicia,Amistoso
+47,Copa C. N. E. F. (Comisión Nacional de Educación Física),Amistoso
+48,Copa Campomar y Soulas S. A.,Amistoso
+49,Copa Carlos Gardel,Amistoso
+50,Copa Celaya,Amistoso
+51,Copa Centenario del Club Olimpia,Amistoso
+52,Copa Ciudad de Guayaquil,Amistoso
+53,Copa Ciudad de Mar del Plata,Amistoso
+54,Copa Ciudad de Trinidad,Amistoso
+55,Copa Concejo Departamental de Montevideo,Amistoso
+56,Copa Confraternidad,Amistoso
+57,Copa Conmebol,Oficial
+58,Copa De Ensayo,Amistoso
+59,Copa De la Paz de la O. N. U.,Amistoso
+60,Copa Del Ayuntamiento Coruñés,Amistoso
+61,Copa Dos Ciudades,Amistoso
+62,Copa Día del Trabajador,Amistoso
+63,Copa El Gráfico - Perú,Amistoso
+64,Copa Embajada de Israel,Amistoso
+65,Copa Embajada del Uruguay en Costa Rica,Amistoso
+66,Copa Embajador Francisco Pons Etcheverry,Amistoso
+67,Copa Enjoy - Punta del Este,Amistoso
+68,Copa EuroAmericana,Amistoso
+69,Copa Forever Faster Puma,Amistoso
+70,Copa G. Guelfi – L. Siviero,Amistoso
+71,Copa General Omar Torrijos,Amistoso
+72,Copa Gob. Manuel Fresco de la Prov. de Bs. As.,Amistoso
+73,"Copa Gobernador de Rio Grande do Sul, Leonel De Moura Brizola",Amistoso
+74,Copa Gustavo A. Volpe,Amistoso
+75,Copa Gustavo Estévez,Amistoso
+76,"Copa Inauguración, del Estadio Campeón del Siglo",Amistoso
+77,Copa Inmigrante Latino,Amistoso
+78,Copa Intendencia Municipal de Paysandú,Amistoso
+79,Copa Intendencia de Rio Negro,Amistoso
+80,Copa Intercontinental de Clubes,Oficial
+81,Copa Intercontinental de Clubes - Copa Bodas de Diamante de Philips,Oficial
+82,Copa Intercontinental de Clubes - Copa Toyota,Oficial
+83,Copa Isla de Tenerife,Amistoso
+84,Copa J. Bacigaluppi - J.M. Sosa,Amistoso
+85,Copa Julio Mendoza,Amistoso
+86,Copa Junta Local Suárez y Toledo,Amistoso
+87,Copa Libertadores de América,Oficial
+88,"Copa Libertadores de América - Trofeo C.S.D.C. Expresso ""E""",Oficial
+89,Copa Libertadores de América - Trofeo Embajada del Uruguay en Bolivia,Oficial
+90,Copa Libertadores de América - Trofeo XV Aniversario Seguros Carabobo,Oficial
+91,Copa Lord Wellington; Virrey de la India,Amistoso
+92,Copa Los Cuatro Presidentes,Amistoso
+93,Copa Maracay,Amistoso
+94,Copa Martini - Rossi - Trofeo Copa Zeni – J. P. Gariboni,Amistoso
+95,Copa Master Card,Amistoso
+96,Copa Mercosur,Oficial
+97,"Copa Ministro de Instrucción Pública, Cdte. Valdéz del Paraguay",Amistoso
+98,Copa Mohamed V de Casablanca,Amistoso
+99,Copa Montevideo,Amistoso
+100,Copa Montevideo - Copa Montevideo II,Amistoso
+101,"Copa Montevideo - Trofeo Presidente de la República de Chile, Gral. D. Carlos Ibáñez",Amistoso
+102,Copa Naranja,Amistoso
+103,Copa Omar Fontana,Amistoso
+104,Copa Organización Multinstitucional Armenia del Uruguay,Amistoso
+105,Copa Oro y Negro,Amistoso
+106,Copa Parmalat,Amistoso
+107,Copa Pre-Inauguración (del Estadio de Barcelona S.C.),Amistoso
+108,Copa Presidente Gral. Morinigo de la República del Paraguay,Amistoso
+109,Copa Primavera,Amistoso
+110,Copa Punta del Este,Amistoso
+111,Copa Raul Morlino,Amistoso
+112,Copa Ricard,Amistoso
+113,Copa Rio Negro,Amistoso
+114,Copa Roland Moor – Henry Lichtemberger,Amistoso
+115,Copa Río,Amistoso
+116,Copa Río de la Plata,Amistoso
+117,Copa S. E. P. (Sociedad Esportiva Palmeiras),Amistoso
+118,Copa Salus,Amistoso
+119,Copa Samsung Galaxy Note,Amistoso
+120,Copa Saúl Menem,Amistoso
+121,Copa Sebastián Elcano,Amistoso
+122,"Copa Sergio ""Chochi"" Delfino",Amistoso
+123,Copa Suatt,Amistoso
+124,Copa Sudamericana,Oficial
+125,Copa Tarrasa,Amistoso
+126,Copa Televisión Nacional de Chile,Amistoso
+127,Copa Teresa Herrera,Amistoso
+128,Copa Tomás Domínguez,Amistoso
+129,Copa Tri Campeones del Mundo,Amistoso
+130,Copa Triples Campeones,Amistoso
+131,Copa Uruguay 96' - Copa Clasicos - Uruguay ’96 (Zona Norte),Amistoso
+132,Copa Uruguay 96' - Declaratoria de la Independencia,Amistoso
+133,Copa Uruguay Natural,Amistoso
+134,Copa Wolkswagen,Amistoso
+135,Copa Zhengguanshiye,Amistoso
+136,Copa de Atenas,Amistoso
+137,Copa de Campeones Uruguayos,Amistoso
+138,Copa de Confraternidad Escobar-Gerona,Oficial
+139,Copa de la Liga AUF,Amistoso
+140,Copa del Atlántico Sur,Amistoso
+141,Cuadrangular Confraternidad,Amistoso
+142,Dramatic Soccer,Amistoso
+143,Embarcadores Standard Fruit,Amistoso
+144,Serie Río de la Plata - Copa Atilio García - Fernando Morena,Amistoso
+145,Serie Río de la Plata - Copa Carlos Bueno,Amistoso
+146,Serie Río de la Plata - Copa Contador Gastón Guelfi,Amistoso
+147,Serie Río de la Plata - Copa Fernando Morena,Amistoso
+148,Serie Río de la Plata - Copa Juan Alberto Acosta,Amistoso
+149,Serie Río de la Plata - Copa Juan Manuel Olivera,Amistoso
+150,Serie Río de la Plata - Copa Julio César Jiménez,Amistoso
+151,Serie Río de la Plata - Copa Oscar Aguirregaray,Amistoso
+152,Serie Río de la Plata - Copa Venancio Ramos,Amistoso
+153,Serie Río de la Plata - Copa Walter Corbo,Amistoso
+154,Serie Río de la Plata - Desafío Invierno,Amistoso
+155,Serie Río de la Plata - Ildo Maneiro,Amistoso
+156,Serie Río de la Plata 2013,Amistoso
+157,Serie Río de la Plata 2025,Amistoso
+158,Serie Río de la Plata 2026,Amistoso
+159,Souvenir Cup - Beijing Airport International Warehousing Cup,Amistoso
+160,Supercopa Sudamericana,Oficial
+161,Supercopa Uruguaya,Oficial
+162,Supercopa de Campeones Intercontinentales,Oficial
+163,Torneo 60mo. Aniversario de Colombes,Oficial
+164,Torneo Apertura - Campeonato Uruguayo,Oficial
+165,Torneo Apertura Relámpago,Oficial
+166,Torneo Campeones Olímpicos,Oficial
+167,Torneo Campeones Sudamericanos Juveniles,Oficial
+168,Torneo Ciudad de Montevideo,Amistoso
+169,Torneo Ciudad de Montevideo,Oficial
+170,Torneo Ciudad de Vigo,Amistoso
+171,Torneo Clasificatorio - Campeonato Uruguayo,Oficial
+172,Torneo Clausura - Campeonato Uruguayo,Oficial
+173,Torneo Colombes,Oficial
+174,Torneo Confraternidad Capital-Interior,Oficial
+175,Torneo Copa de Oro,Oficial
+176,Torneo Copa de Oro de los Grandes,Amistoso
+177,Torneo Copa del Atlántico,Amistoso
+178,Torneo Copa del Atlántico - Trofeo La Carreta,Amistoso
+179,Torneo Copa del Atlántico Sur,Amistoso
+180,Torneo Cuadranguar 25° Aniversario del José Pinheiro Borda (Beira-Rio) de Porto Alegre,Amistoso
+181,Torneo Cuadrangular,Oficial
+182,"Torneo Cuadrangular - Copa Presidente del Consejo Nacional del Gabierno, Dr. Alberto F.Zubiria",Oficial
+183,Torneo Cuadrangular 134° Aniversario de la Ciudad de Guayaquil,Amistoso
+184,Torneo Cuadrangular 134° Aniversario de la Ciudad de Guayaquil - Embarcadores Standard Fruit,Amistoso
+185,Torneo Cuadrangular Amistoso,Amistoso
+186,Torneo Cuadrangular C. Jesús Rodríguez Llado,Amistoso
+187,Torneo Cuadrangular Centenario del Pueblo de Maroñas,Amistoso
+188,Torneo Cuadrangular Ciudad de Atenas,Amistoso
+189,"Torneo Cuadrangular Ciudad de Granada, Trofeo Ciudad de Alhambra",Amistoso
+190,Torneo Cuadrangular Ciudad de Murcia,Amistoso
+191,Torneo Cuadrangular Ciudad de Paysandú,Amistoso
+192,Torneo Cuadrangular Ciudad de San Pablo,Amistoso
+193,"Torneo Cuadrangular Ciudad de Tacuarembó, Copa Carlos Gardel",Amistoso
+194,"Torneo Cuadrangular Confraternidad por Guatemala, Copa Contador Gastón Guelfi",Amistoso
+195,Torneo Cuadrangular Consejo Cantonal de Guayaquil,Amistoso
+196,Torneo Cuadrangular Daniel Tambasco,Amistoso
+197,Torneo Cuadrangular De Carnaval,Amistoso
+198,Torneo Cuadrangular Especial,Oficial
+199,Torneo Cuadrangular Feria Mundial del Azúcar,Amistoso
+200,Torneo Cuadrangular General Artigas,Amistoso
+201,Torneo Cuadrangular Hugo Forno,Amistoso
+202,Torneo Cuadrangular Internacional,Amistoso
+203,Torneo Cuadrangular Internacional 150° Aniversario de la Ciudad de Tolúca,Amistoso
+204,Torneo Cuadrangular Internacional Uruguay-Brasil,Amistoso
+205,Torneo Cuadrangular Internacional de Verano,Amistoso
+206,"Torneo Cuadrangular, Copa Bandes",Amistoso
+207,"Torneo Cuadrangular, Copa Cervecerías Nacionales",Amistoso
+208,"Torneo Cuadrangular, Copa Conrad",Amistoso
+209,"Torneo Cuadrangular, Copa Conrad - Copa Intendencia Municipal de Maldonado",Amistoso
+210,"Torneo Cuadrangular, Copa Gigantes de América",Amistoso
+211,"Torneo Cuadrangular, Copa Gigantes de América - Copa G. S. & E. (Graben Stars&Eintertainment)",Amistoso
+212,"Torneo Cuadrangular, Copa Inauguración",Amistoso
+213,"Torneo Cuadrangular, Copa Intendencia Municipal de Tacuarembó",Amistoso
+214,"Torneo Cuadrangular, Copa Locker",Amistoso
+215,"Torneo Cuadrangular, Copa Los Colosos",Amistoso
+216,Torneo Especial,Oficial
+217,Torneo Especial Copa Año Internacional del Niño,Oficial
+218,Torneo Feria de Cali,Amistoso
+219,Torneo Fermín Garicoits,Oficial
+220,Torneo Guatemala,Amistoso
+221,Torneo Hexagonal Internacional,Amistoso
+222,Torneo Hexagonal Natalicio del Libertador Simón Bolivar,Amistoso
+223,Torneo Intermedio - Campeonato Uruguayo,Oficial
+224,Torneo Internacional Nocturno Rioplatense,Amistoso
+225,Torneo Liga Mayor,Oficial
+226,Torneo Liga Mayor - Copa 84° Aniversario del Club Atlético Peñarol,Oficial
+227,Torneo Liguilla Pre Libertadores,Oficial
+228,Torneo Montevideo,Oficial
+229,Torneo Mundialito de Clubes Campeones Intercontinentales,Amistoso
+230,"Torneo Octogonal, Copa I.F.A. Shield",Oficial
+231,Torneo Oficial Relámpago,Oficial
+232,Torneo Periodismo Deportivo,Oficial
+233,Torneo Preparación,Oficial
+234,Torneo Presentación,Amistoso
+235,Torneo Punta del Este,Amistoso
+236,Torneo Relámpago,Amistoso
+237,Torneo República,Oficial
+238,"Torneo Triangular ""Casa de Andalucía""",Amistoso
+239,"Torneo Triangular ""Álvaro Gestido""",Amistoso
+240,Torneo Triangular Copa Sesquicentenario de La Batalla de Pichincha,Amistoso
+241,Torneo Triangular Libertad,Amistoso
+242,Torneo Triangular Santiago de Chile,Amistoso
+243,"Torneo Triangular de Caracas, Copa Círculo de Periodistas Deportivos de Venezuela",Amistoso
+244,Torneo Triangular de Santiago,Amistoso
+245,"Torneo Triangular, Copa Hyundai",Amistoso
+246,"Torneo Triangular, Copa Hyundai - Copa Intendencia Municipal de Maldonado",Amistoso
+247,Torneo de Copa Alfredo Lois,Oficial
+248,Torneo de Verano,Amistoso
+249,"Trofeo ""Carrere Sapriza - Washington Cataldi""",Amistoso
+250,Trofeo (bronce) del Cacique Caupolican,Amistoso
+251,Trofeo 100 años del Club Porto,Amistoso
+252,Trofeo 25° Aniversario de la Inauguración del Estadio Monumental de Núñez,Amistoso
+253,Trofeo 50° Aniversario de Lérida,Amistoso
+254,Trofeo 80 Años de la Universidad Nacional Autónoma,Amistoso
+255,Trofeo Amistad Continental,Amistoso
+256,Trofeo BMO,Amistoso
+257,Trofeo C. V. Radio Chuy,Amistoso
+258,Trofeo Cable Mágico - GolTV,Amistoso
+259,Trofeo Caixa Economica Federal,Amistoso
+260,Trofeo Carlos Joel Nelli,Amistoso
+261,Trofeo Cerdeña Cup,Amistoso
+262,Trofeo Ciudad De la Línea de Concepción,Amistoso
+263,Trofeo Ciudad Juárez,Amistoso
+264,Trofeo Ciudad de Asunción,Amistoso
+265,Trofeo Ciudad de Bologna,Amistoso
+266,Trofeo Ciudad de Marbella,Amistoso
+267,Trofeo Ciudad de Murcia,Amistoso
+268,Trofeo Ciudad de Santiago de Chile,Amistoso
+269,Trofeo Ciudad de Sevilla,Amistoso
+270,Trofeo Ciudad de Tenerife,Amistoso
+271,Trofeo Ciudad de Tenerife - Trofeo Teide,Amistoso
+272,Trofeo Ciudad de Valladolid,Amistoso
+273,Trofeo Ciudad de Zaragoza,Amistoso
+274,Trofeo Ciudad de las Palmas de Gran Canaria,Amistoso
+275,Trofeo Confraternidad Cyssa,Amistoso
+276,Trofeo Costa del Sol,Amistoso
+277,Trofeo Dr. David Scheider,Amistoso
+278,Trofeo Estudiantes de Arquitectura,Amistoso
+279,Trofeo Feria y Fiesta de la Ciudad Real,Amistoso
+280,Trofeo Hugo Bagnulo,Amistoso
+281,Trofeo Ibérico,Amistoso
+282,Trofeo Ing. Jorge Manuel Marum - Trofeo Alberto P. Spencer Herrera,Amistoso
+283,Trofeo Joan Gamper,Amistoso
+284,Trofeo New Loan Challenger Cup,Amistoso
+285,"Trofeo Néstor ""Tito"" Gonçálves",Amistoso
+286,Trofeo Porto Alegre,Amistoso
+287,Trofeo Príncipe Felipe de España,Amistoso
+288,Trofeo Ramón de Carranza,Amistoso
+289,Trofeo Rematador Héctor Mario Albernaz,Amistoso
+290,Trofeo Rioplatense,Amistoso
+291,Trofeo Saishin Internacional Friendly,Amistoso
+292,Trofeo Santiago Bernabeu,Amistoso
+293,Trofeo Se.Fe.Gi. Gold Cup,Amistoso
+294,Trofeo Semana de Lavalleja,Amistoso
+295,Trofeo T.A.P. (Transportes Aéreos Portugueses),Amistoso
+296,Trofeo de la Cerámica,Amistoso
+297,Trofeo Ágora,Amistoso

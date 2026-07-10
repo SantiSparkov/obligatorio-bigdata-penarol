@@ -1,0 +1,434 @@
+estadio_id,nombre
+1,1 y 57 de la Ciudad de La Plata
+2,18 de Julio de Tacuarembó
+3,19 de Octubre de Ijuí
+4,23 de Agosto
+5,Adrián Irala de Asunción
+6,Alberto Jacinto Armando (La Bombonera) de Buenos Aires
+7,Alejandro Villanueva - Matute de Lima
+8,Alfredo Jaconi de Caxias do Sul
+9,Allianz Parque de São Paulo
+10,Amílcar Prieto del Melo F.C.
+11,Antonio Pena de Catú de Bahía
+12,Antonio Romero de Ciudad de Formosa
+13,Antonio Vespucio Liberti (Monumental) de Buenos Aires
+14,Aníbal Rocha de Castillos
+15,Arena Independencia de Belo Horizonte
+16,Arena da Baixada de Curitiba
+17,Arquitecto Antonio Eleuterio Ubilla de Melo
+18,Arquitecto Ricardo Etcheverri de Buenos Aires
+19,Asunción
+20,Atanasio Girardot de Medellín
+21,Atilio Paiva Olivera de Rivera
+22,Atocha de San Sebastián
+23,Av. Alvear y Tagle de Buenos Aires
+24,Azteca de Ciudad de México
+25,BMO de Toronto
+26,Badajoz
+27,Banc of California Stadium
+28,Barrio Alegre Trenque Lauquen
+29,Belford Duarte de Curitiba
+30,Belgrado
+31,Bella Vista de Ambato
+32,Belvedere
+33,Benito Villamarín de Sevilla
+34,Bento Freitas de Pelotas
+35,Bossley Park de Sidney
+36,"Brigadier Lopez ""Cementerio de los elefantes"" de Santa Fe"
+37,Bruselas
+38,Buenos Aires
+39,Camilo Cichero de Buenos Aires
+40,Campeones Olímpicos de Florida
+41,Campeón del Siglo
+42,Campo Deportivo Bodio de Suiza
+43,Campo del Bellusco en Milan
+44,Campus Municipal Domingo Burgueño Miguel de Maldonado
+45,Campus Municipal Profesor Alberto Suppici de Colonia
+46,Carazinho de Erechim de de Rio Grande do Sul
+47,Carlos Belmonte de Albacete
+48,Carlos Tartiere de Oviedo
+49,Casablanca de Quito
+50,Casto Martínez Laguarda de San José
+51,Celtic Park de Glasgow
+52,Centenario
+53,Centro Empleados de Comercio de Treinta y Tres
+54,Charrúa
+55,Chateau Carreras de Córdoba
+56,Ciudad Universitaria de Ciudad de México
+57,Ciudad de Mérida
+58,Ciudad de México
+59,Ciudad de Valencia
+60,Ciudad de Vicente López
+61,Club Juventud de Colonia
+62,Colombes de Francia
+63,Colonia
+64,Complejo Deportivo Samuel Priliac del Chuy
+65,Complejo Deportivo de Danubio en Ruta 101
+66,Complejo Militar General Artigas
+67,Complejo Rentistas
+68,Comunal El Pireo de Atenas
+69,Comunal Karuiskaki de Atenas
+70,Comunal La Fiorita Dino Manuzzi de Cesena
+71,Comunal Modelo de Manta
+72,Comunal de Turín
+73,Comunale de Atalanta
+74,Corona de Torreón
+75,Cuenca
+76,Cuscatlán de El Salvador
+77,Cámpus Municipal de Durazno
+78,Cícero Pompeu de Toledo (Morumbi) de São Paulo
+79,Córdoba
+80,Da Baixada de Porto Alegre
+81,Da Luz de Lisboa
+82,Das Antas de Porto
+83,Das Laranjeiras en Río de Janeiro
+84,De Barrio Rocamora de Misiones
+85,De Honor de Casablanca
+86,De La Revolución Panameña
+87,Defensores del Chaco de Asunción
+88,Deportivo Cali de Cali
+89,Do Dragao de Porto
+90,Doble Visera de Avellaneda
+91,Dolores
+92,Dos Eucaliptus de Porto Alegre
+93,Dr. Nicolás Léoz (La Huerta) de Asunción
+94,Durazno
+95,Durival de Brito de Curitiba
+96,Eduardo Martínez Monegal de Canelones
+97,Ejercito Rojo de Belgrado
+98,El Bosque de Asunción
+99,El Cilindro
+100,El Madrigal de Villarreal
+101,El Pireo de Atenas
+102,El Sadar de Pamplona
+103,El Sardinero de Santander
+104,El Teniente de Rancagua
+105,Ennio Tardini de Parma
+106,Evandro Almeida de Belém do Pará
+107,FAU Stadium de Boca Ratón
+108,Feliciano Cáceres de Luque
+109,Felix Capriles de Cochabamba
+110,Fernando Londoño de Manizales
+111,Ferroviario de Lourenço Marques
+112,Field Irineo Brito de Nueva Palmira
+113,Field Juan Lacaze
+114,Field La Visera de Río Negro
+115,Field Liga Universitaria
+116,Field Los Perales de Carmelo
+117,Field Municipal de Catamarca
+118,Field Municipal de Durazno
+119,Field Municipal de Melo
+120,Field Municipal de Minas
+121,Field Municipal de Pelotas
+122,Field Oriental de Rivera
+123,Field Paso de los Toros
+124,Field de Arroyito de Rosario Central
+125,Field de Artesano de Nueva Helvecia
+126,Field de Boca Juniors en Buenos Aires
+127,Field de Colonia
+128,Field de Córdoba
+129,Field de El Dorado en Misiones
+130,Field de Estudiantes de La Plata
+131,Field de Juventus de Canelones
+132,Field de Libertad Concordia
+133,Field de Los Olivos en Bella Unión
+134,Field de Maldonado
+135,Field de Melo
+136,Field de Misiones
+137,Field de Nueva Palmira
+138,Field de Parque Rodó
+139,Field de Porto Viejo
+140,Field de Racing de Avellaneda
+141,Field de San Lorenzo en Pando
+142,Field de Santiago del Estero
+143,Field de Trinidad
+144,Field de Valdivia
+145,Field de la Liga Universitaria
+146,Field de la Liga de Tacuarembó
+147,Field de la ciudad de Mendoza
+148,Field del Club Elviña en la Coruña
+149,Field del Club Lavalleja de Minas
+150,Field del Club Uruguay de Artigas
+151,Field del Parque Rodó
+152,Field del Punta del Este
+153,Field oficial de Lazcano
+154,Field oficial de Mercedes
+155,Fiscal Talca
+156,Flor Blanca de El Salvador
+157,Florianópolis
+158,Francisco Palma Travassos de Ribeirão Preto
+159,Francisco Sánchez Rumoroso de Coquimbo
+160,Gasómetro de Buenos Aires
+161,General Pablo Rojas (La Olla) de Asunción
+162,General San Martín de Mar del Plata
+163,General Santander de Cúcuta
+164,George Capwell de Guayaquil
+165,Gigante de Arroyito
+166,Gigante de Barrio Alberdi de Córdoba
+167,Ginés Cairo Medina de Maldonado
+168,Giuseppe Meazza de Milan
+169,Governador Magalhães Pinto (Mineirão) de Belo Horizonte
+170,Governo do Estado de Goiás
+171,Gran Parque Central
+172,Guillermo Soto Rosa de Mérida
+173,Hamburgo
+174,Heliodoro Rodríguez López de Santa Cruz de Tenerife
+175,Hernán Cortés de San Pedro Sula
+176,Hernándo Siles de La Paz
+177,Hong Kong Stadium
+178,Hongkou de Shanghái de China
+179,Ilha do Retiro de Recife
+180,Ingeniero Raúl Goyenola de Tacuarembó
+181,Instalaciones de California State Long Beach University
+182,Insular de las Islas Canarias
+183,Irapuato
+184,Itajaí
+185,Iwata
+186,Jalisco de Guadalajara
+187,Jardines del Hipódromo
+188,Jesús Bermúdez de Oruro
+189,Joaquin A. Guimarães de Curitiba
+190,Jorge Luis Hirschi de La Plata
+191,Jornalista Mário Filho (Maracanã) de Rio de Janeiro
+192,José Amalfitani de Liniers
+193,José Antonio Anzoátegui de Puerto La Cruz
+194,José Antonio Paéz de Acarigua
+195,José Enrique Rodó de Soriano
+196,José Germán Baldassini de Melo
+197,José Luis Meiszner de Quilmes
+198,José María Minella de Mar del Plata
+199,José Pedro Damiani
+200,José Pinheiro Borda (Beira-Rio) de Porto Alegre
+201,José Pérez Colmenares de Maracay
+202,José R. Ugarte de Young
+203,João Martins de Santana do Livramento
+204,Juan Antonio Lavalleja de Trinidad
+205,Juan Carmelo Zerillo de La Plata
+206,Julio César Villagra de Córdoba
+207,Julio Humberto Grondona de Buenos Aires
+208,Kleanthis Vikelidis de Salonica
+209,L'Amitié de Dakar de Senegal
+210,La Bombonera en Malvín Norte
+211,La Condomina de Murcia
+212,La Plata
+213,La Romareda de Zaragoza
+214,La Rosaleda de Málaga
+215,La Victoria de Lima
+216,La Visera de Avellaneda
+217,Las Acacias
+218,Las Piedras
+219,Leônidas Sodré De Castro en Curuzú de Belem
+220,Libertadores de América de Avellaneda
+221,Linares
+222,Lodz de Polonia
+223,Los Aromos
+224,Los Cármenes de Granada
+225,Luigi Barbieri de Pinerolo
+226,Luigi Ferraris de Génova
+227,Luis Alberto Tróccoli
+228,Luis Franzini
+229,Luis Köster de Mercedes
+230,Madrid
+231,Malecón de Torrelavega
+232,Malvinas Argentinas de Mendoza
+233,Mangueirao de Belem
+234,Manuel Ferreira de Asunción
+235,Manzanares de Madrid
+236,Mar del Plata
+237,Marassi de Génova
+238,Marcel Cerdan de Casablanca
+239,Mario Mercado Vaca Guzmán de Potosi
+240,Martínez Monegal de Canelones
+241,Mateo Funes de Mercedes
+242,Matías González de Artigas
+243,Memorial Coliseum de Los Ángeles
+244,Mercedes
+245,Mestalla de Valencia
+246,Metropolitano de Madrid
+247,Mich de Yugoslavia
+248,Miguel Alemán de Nueva Celaya
+249,Miguel Campomar de Juan Lacaze
+250,Milander Park de Florida
+251,Modelo de Guayaquil
+252,Monterrey
+253,Monumental David Arellano de Santiago de Chile
+254,Monumental José Fierro de Tucumán
+255,Monumental de Guayaquil
+256,Monumental de Lima
+257,Morelia
+258,Morgagni de Forli de Italia
+259,Municipal Anacleto Campanella de São Caetano
+260,Municipal De los Cuartos de la Orotava en Tenerife
+261,Municipal Doctor Mario Sobrero de Rocha
+262,Municipal Elchoperalo de Lérida
+263,Municipal Frei Epifanio de Imperatriz (Brasil)
+264,Municipal Juan Antonio Lavalleja de Minas
+265,Municipal Kobe de Japón
+266,Municipal Parque Artigas de Las Piedras
+267,Municipal Paulo Machado de Carvalho (Pacaembu) de São Paulo
+268,Municipal Ramón de Carranza
+269,Municipal Villa Hermosa
+270,Municipal de Antofagasta
+271,Municipal de Artigas
+272,Municipal de Calama
+273,Municipal de Cavancha
+274,Municipal de Concepción
+275,Municipal de Cuenca
+276,Municipal de Dresden de Alemania Democrática
+277,Municipal de Guatemala
+278,Municipal de La Línea
+279,Municipal de Marbella
+280,Municipal de Mendizorroza
+281,Municipal de Montecatini
+282,Municipal de Pando
+283,Municipal de Portimao de Portugal
+284,Municipal de Rivera
+285,Municipal de Tarrasa
+286,Municipal de Temuco
+287,Municipal de Toulouse
+288,Municipal de Treinta y Tres
+289,Municipal Ícaro De Castro Melo en el Parque Ibirapuera de São Paulo
+290,Municpal Valparaiso
+291,Nacional Mateo Flores de Guatemala
+292,Nacional de Lima
+293,Nacional de Mostov de Yugoslavia
+294,Nacional de Nueva Helvecia
+295,Nacional de Santiago de Chile
+296,Nacional de Tokyo
+297,Necaxa
+298,Nemesio Camacho (El Campín) de Bogotá
+299,Neo Química Arena de São Paulo
+300,Nep de Budapest
+301,Newark City School Stadium de Nueva York
+302,Newell's Old Boys de Rosario
+303,Norberto Tomaghello de Buenos Aires
+304,Nou Camp de Barcelona
+305,Nueva Filadelfia de Atenas
+306,Nueva Helvecia
+307,Nuevo Castalia de Castellón
+308,Néstor Díaz Pérez de Lanús
+309,Olavarria
+310,Olimpico de Roma
+311,Olímpico
+312,Olímpico Atahualpa de Quito
+313,Olímpico Benito Juárez de México
+314,Olímpico Flaminio de Roma
+315,Olímpico Monumental de Porto Alegre
+316,Olímpico Nilton Santos de Rio de Janeiro
+317,Olímpico Universitario de Ciudad de México
+318,Olímpico de Atenas
+319,Olímpico de Cali
+320,Olímpico de Ciudad de México
+321,Olímpico de Córdoba
+322,Olímpico de Turín
+323,Olímpico de la Ciudad Universitaria de Caracas
+324,Palestra Itália (Parque Antártica) de São Paulo
+325,Parque Abraham Paladino
+326,Parque Alfredo Víctor Viera
+327,Parque Almirante Nelson
+328,Parque Artigas de Carmelo
+329,Parque Artigas de Paysandú
+330,Parque Capurro
+331,Parque Cincuentenario Juan Gaspar Prandi
+332,Parque Dr. Carlos Suero
+333,Parque Ernesto Dickinson de Salto
+334,Parque Federico Omar Saroldi
+335,Parque General Artigas de Minas
+336,Parque General Artigas de Paysandú
+337,Parque Huracán Buceo
+338,Parque Independencia de Rosario
+339,Parque José Nasazzi
+340,Parque Liebig’s de Fray Bentos
+341,Parque Luis Rivero
+342,Parque Mitre de Concordia
+343,Parque Méndez Piana
+344,Parque Osvaldo Roberto
+345,Parque Palermo
+346,Parque San Martín
+347,Parque Siete de Setiembre de Artigas
+348,Parque local de Guadalajara
+349,Pascual Guerrero de Cali
+350,Paseo del Bosque de La Plata
+351,"Pedro Bidegain ""Nuevo Gasómetro"" de Buenos Aires"
+352,Pedro Moura de Bagé
+353,Pekin
+354,Pelotas
+355,Plan de San Luis de Potosí
+356,Plaza Ocampo de Córdoba
+357,Plaza de Deportes de Colonia
+358,Polideportivo Misael Delgado de Valencia
+359,"Polideportivo Municipal ""Principe Don Juan Carlos"" de Barcelona"
+360,Polideportivo de Pueblo Nuevo de San Cristóbal
+361,Porto Das Antas
+362,Prater de Viena
+363,Presidente Perón (El Cilindro) de Avellaneda
+364,Presidente Vargas de Fortaleza
+365,Presidente Vargas de Santa María
+366,Puerto Sajonia de Asunción
+367,Pusan
+368,Quito
+369,Rafael Mendoza Castellón de La Paz
+370,Ramat de Tel Aviv
+371,Ramón Sánchez Pizjuán de Sevilla
+372,Ramón Tahuichi Aguilera de Santa Cruz de la Sierra
+373,Regional Calvo y Bascuñán de Antofagasta
+374,Regional de Antofagasta
+375,Renato Dall'Ara de Bologna
+376,"Ressacada, Alfonso Konder de la Isla de Santa Catarina en Florianópolis"
+377,Riazor de la Coruña
+378,Ricardo Saprissa Aymá de San José de Costa Rica
+379,Rico Pérez de Alicante
+380,Rocha
+381,Rodrigo Paz Delgado de Quito
+382,Romelio Martínez de Barranquilla
+383,Rosario
+384,Sa da Bandeira
+385,Saint Ettienne
+386,Saint’ Elia de Cagliari
+387,Salazar de Luanda
+388,Salt Lake Stadium de Calcuta
+389,Salta
+390,San Carlos de Apoquindo de Santiago de Chile
+391,San Ciro de Milan
+392,San José de Costa Rica
+393,San Lorenzo
+394,San Mamés
+395,San Miguel Tucumán
+396,San Nicola de Bari
+397,San Paolo de Nápoles
+398,Santa Laura de Santiago de Chile
+399,Santiago Bernabéu de Madrid
+400,Sausalito de Viña del Mar
+401,Sclassin de Lieja
+402,Semillero Nacional Estanzuela
+403,Serra Dourada de Recife
+404,Seúl
+405,Silvestre Octavio Landoni de Durazno
+406,Silvio Cator de Puerto Principe
+407,Skopje de Yugoslavia
+408,São Januário de Rio de Janeiro
+409,Tacuarembó
+410,Tampico
+411,Tegucigalpa
+412,Territorio Santos Modelo Corona de Torreón
+413,Tierra de Campeones de Iquique
+414,Toluca
+415,Tomás Adolfo Ducó de Buenos Aires
+416,Trabajadores de Pekin
+417,Tuzla de Yugoslavia
+418,Ulrico Mursa de la Baixada Santista en São Paulo
+419,Universidad Autónoma de Guadalajara
+420,Universitario de Monterrey
+421,Urawa Komaba Stadium de Japón
+422,Urbano Caldeira (Vila Belmiro) de Santos
+423,Vallecas
+424,Villa Crespo en Buenos Aires
+425,Villa Olímpica de Parque Leloir de Buenos Aires
+426,Villa de San Juan de Jujuy
+427,Viña del Mar
+428,Win de Wollongong
+429,Zagrev
+430,Zorrilla de Valladolid
+431,Álvaro Pérez de San Carlos
+432,Ícaro De Castro Melo en Parque Ibirapuera
+433,Único Ciudad de la Plata

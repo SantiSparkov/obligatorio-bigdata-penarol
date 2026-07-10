@@ -1,0 +1,569 @@
+dt_id,nombre
+1,A. Basile
+2,A. Cappa
+3,A. Petrullo
+4,Abel Balbo
+5,Abel Braga
+6,Abraham Yeladián
+7,Adolfo Barán
+8,Adán Machado
+9,Alberto Gamero
+10,Alberto Langlade
+11,Alberto Martínez
+12,Alberto Mena
+13,Alberto Quintela
+14,Alberto Suppici
+15,Aldo Bobadilla
+16,Alejandro Apud
+17,Alejandro Bertoldi
+18,Alejandro Botello
+19,Alejandro Cappuccio
+20,Alejandro Cappuccio Amarilla
+21,Alejandro Cappuccio Roja 75'
+22,Alejandro Capuccio
+23,Alejandro Garay
+24,Alejandro Larrea
+25,Alejandro Orfila
+26,Alejandro Orfila Amarilla
+27,Alexander Medina
+28,Alexander Medina Roja 101'
+29,Alexis Mendoza
+30,Alfredo Arias
+31,Alvaro Fuerte
+32,Alvaro Regueira
+33,Angel Castelnoble
+34,Antonio Alzamendi
+35,Antonio Da Costa Castanheira
+36,Antonio Mohamed
+37,Antonio Pacheco
+38,Aníbal Montero
+39,Aníbal Tejada
+40,Apraham Yeladian
+41,Ariel De Armas
+42,Ariel Krasouski
+43,Ariel Krasowski
+44,Ariel Longo
+45,Ariel de La Fuente
+46,Armando Renganeschi
+47,Artur Jorge
+48,Athuel Velázquez
+49,Baldo Raineri
+50,Beethoven Javier
+51,Bela Guttman
+52,Benito Floro
+53,Bernardo Giordano
+54,Bob Bradley
+55,Brian Schmetzer
+56,Bruno Lazaroni
+57,Bruno Piano
+58,Bruno Silva
+59,Carlos Aguilera
+60,Carlos Alberto Parreira
+61,Carlos Babington
+62,Carlos Barcos
+63,Carlos Bianchi
+64,Carlos Canobbio
+65,Carlos Ischia
+66,Carlos Laje
+67,Carlos López Fretes
+68,Carlos Manta
+69,Carlos Peucelle
+70,Carlos Ramacciotti
+71,Carlos Savaresse
+72,Carlos Timoteo Griguol
+73,Carlos Wallace
+74,Ceferino Bencomo
+75,Celso Ayala
+76,Celso Roth
+77,Claudio Biaggio
+78,Comisión de Fútbol
+79,Cristian Chambian
+80,Cristian Díaz
+81,César Farías
+82,César Luis Menotti
+83,César Payovich
+84,Césare Rossi
+85,D. Torres
+86,Damián Tipani
+87,Daniel Bañales
+88,Daniel Carreño
+89,Daniel Farías
+90,Daniel Martínez
+91,Daniel Oldrá
+92,Daniel Passarella
+93,Daniel Rocco
+94,Daniel Sánchez
+95,Daniel Torres
+96,Danielo Núñez
+97,Danilo Baltierra
+98,Danilo Núñez
+99,Darlyn Gayol
+100,Darío Herrera
+101,Darío Larrosa
+102,Darío Rodríguez
+103,David Amaral
+104,Diego Aguirre
+105,Diego Alonso
+106,Diego Barragán
+107,Diego Forlán
+108,Diego Jaume
+109,Diego López
+110,Diego Monarriz
+111,Dino Sani
+112,Dorival Junior
+113,E. Fernández
+114,Edgar Martínez
+115,Edgardo Arias
+116,Edgardo Bauza
+117,Edison Machín
+118,Eduardo Acevedo
+119,Eduardo Baptista
+120,Eduardo Barros
+121,Eduardo Del Capellán
+122,Eduardo Domínguez
+123,Eduardo Espinel
+124,Eduardo Favaro
+125,Eduardo Rivera
+126,Eduardo Uzal
+127,Eduardo del Capellan
+128,Elbio Tomás Pagano
+129,Emerson Leao
+130,Emiliano Alfaro
+131,Emérico Hirsch
+132,Enrique Viola
+133,Erich Ribbeck
+134,Ernesto Ledesma
+135,Esteban Conde
+136,Ever Almeida
+137,Fabián Bustos
+138,Fabián Coito Amarilla
+139,Federico Nieves
+140,Federico Vairo
+141,Fernando Araújo
+142,Fernando Correa
+143,Fernando Curuchet
+144,Fernando Curutchet
+145,Fernando Diniz
+146,Fernando Morena
+147,Fernando Ortiz
+148,Fernando Quiroz
+149,Francisco Arce
+150,Francisco Paladino
+151,Francisco Palladino
+152,Francisco Salomon
+153,Francisco Salomón
+154,Franco Navarro
+155,Franco Paladino
+156,Gabriel Di Noia
+157,Gabriel Milito
+158,Gabriel Peralta
+159,Gabriel Perrone
+160,Gaizka Garitan
+161,Gastón Machado
+162,Gerardo Martino
+163,Gerardo Pelusso
+164,Gerardo Spósito
+165,Gonzalo De Los Santos
+166,Gregorio Pérez
+167,Gregório Pérez
+168,Gualberto Jara
+169,Guillermo Almada
+170,Guillermo Barros Schelotto
+171,Guillermo Farré
+172,Guillermo Lemez
+173,Guillermo Sanguinetti
+174,Gustavo Alfaro
+175,Gustavo Benítez
+176,Gustavo Bueno
+177,Gustavo Costas
+178,Gustavo Dalto
+179,Gustavo Díaz
+180,Gustavo Díaz Amarilla
+181,Gustavo Fermani
+182,Gustavo Ferreyra
+183,Gustavo Ferrín
+184,Gustavo Hornes
+185,Gustavo Machaín
+186,Gustavo Matosas
+187,Gustavo Matósas
+188,Gustavo Morinigo
+189,Gustavo Munúa
+190,Gustavo Munúa Amarilla
+191,Gustavo Quinteros
+192,H. Castro
+193,H. Fernández
+194,H. Romero
+195,Heber Silva Cantera
+196,Heinz Hermann
+197,Henry Meléndez
+198,Horacio Peralta
+199,Hugo Bagnulo
+200,Hugo Fernández
+201,Hugo Parga
+202,Hugo Sánchez
+203,Hugo de León
+204,Héctor Bracamonte
+205,Héctor Cárdenas
+206,Héctor Méndez
+207,Héctor Rodríguez
+208,Héctor Veira
+209,I. Da Rosa
+210,Ignacio Ithurralde
+211,Ignacio Ordóñez
+212,Ignacio Pallas
+213,Ignacio Pallas Amarilla
+214,Ignacio Risso
+215,Ignacio Risso Amarilla
+216,Ildo Maneiro
+217,Ildo Manerio
+218,Imre Hirschl
+219,Ismael Rescalvo
+220,Israel Damonte
+221,J. Baldriz.
+222,J. González
+223,J.J. Pizzutti
+224,Jadson Viera
+225,Jaime García Arévalo
+226,Jaime de la Pava
+227,Jair Picerni
+228,Javi Gracia
+229,Javier Bustos
+230,Javier Méndez
+231,Joaquin Monasterios
+232,Joaquín Boghossian
+233,Joaquín Monasterio
+234,Joaquín Papa
+235,Joel Santana
+236,Jorge Almirón
+237,Jorge Amaya
+238,Jorge Baldivieso
+239,Jorge Barrios
+240,Jorge Bava
+241,Jorge Bava Amarilla
+242,Jorge Burruchaga
+243,Jorge Cabillón
+244,Jorge Calvi
+245,Jorge Casanova
+246,Jorge Castelli
+247,Jorge Clulow
+248,Jorge Da Silva
+249,Jorge Fossati
+250,Jorge Fossati Amarilla
+251,Jorge Garcés
+252,Jorge García
+253,Jorge Giordano
+254,Jorge Giordano Amarilla
+255,Jorge Goncálvez
+256,Jorge González
+257,Jorge Gonçalves
+258,Jorge Gonçálves
+259,Jorge Jesús
+260,Jorge Jorginho
+261,Jorge Kistenmacher
+262,Jorge Luis Pinto
+263,Jorge Martínez
+264,Jorge Moncecchi
+265,Jorge Sampaoli
+266,Jorge Secondo
+267,Jorge Vivaldo
+268,José Alberto Rossi
+269,José B. Perdomo
+270,José Barreiro
+271,José Basualdo
+272,José Emilio Galiana
+273,José Enrique De los Santos
+274,José Etchegoyen
+275,José Flores
+276,José L. Rodríguez
+277,José Manuel Vázquez
+278,José Manuel de la Torre
+279,José María Minella
+280,José María Rodríguez
+281,José Mourinho
+282,José Oltra
+283,José Omar Pastoriza
+284,José Perdomo
+285,José Piendibene
+286,José Puente
+287,José Ramón Brunell
+288,José Torres
+289,Juan Ahunchain
+290,Juan Ahuntchain
+291,Juan Alberto Schiaffino
+292,Juan Antonio Pizzi
+293,Juan C. Blanco
+294,Juan C. Borteiro
+295,Juan C. Carrasco
+296,Juan Carlos Lorenzo
+297,Juan Carlos Oblitas
+298,Juan Eduardo Hohberg
+299,Juan J. Rodríguez
+300,Juan José Duarte
+301,Juan López
+302,Juan Manuel Llop
+303,Juan Manuel Martínez
+304,Juan Manuel Olivera
+305,Juan Manuel Rodríguez
+306,Juan Martínez
+307,Juan Pedro Arremón
+308,Juan Peregrino Anselmo
+309,Juan Quefan y Carlos Britos
+310,Juan Ramón Carrasco
+311,Juan Ramón Carrasco Roja 91'
+312,Juan Ramón Silva
+313,Juan Rescalvo
+314,Juan Ricardo Faccio
+315,Juan Tejera
+316,Juan Tejera Amarilla
+317,Juan Verzeri
+318,Julio Acuña
+319,Julio Balerio
+320,Julio Comesaña
+321,Julio César Antúnez
+322,Julio César Baldivieso
+323,Julio César Balerio
+324,Julio César Cáceres
+325,Julio César Falcioni
+326,Julio César Morales
+327,Julio César Toresani
+328,Julio Fuentes
+329,Julio Morales
+330,Julio Mozzo
+331,Julio Ribas
+332,Julio Vaccari
+333,Julián Rubio
+334,Juvencio Bentancourt
+335,Juvencio Betancourt
+336,Kenny Núñez
+337,Ladislao Mazurkiewicz
+338,Leandro Romagnoli
+339,Leo Beenhakker
+340,Leonardo De Lucca
+341,Leonardo Jardim
+342,Leonardo Medina
+343,Leonardo Ramos
+344,Leonardo Ramos Amarilla
+345,Leonardo Rumbo
+346,Leonel Rocco
+347,Leopoldo Delgado
+348,Ljubomir Petrovic
+349,Lorenzo Fernández
+350,Lucas Nardi
+351,Lucas Pusineri
+352,Luis Acosta
+353,Luis Antonio Zaluar
+354,Luis Cubilla
+355,Luis Galarza
+356,Luis Garisto
+357,Luis González
+358,Luis López
+359,Luis Mederos y Claudio Marini (dupla técnica)
+360,Luis Prais
+361,Luis Víctor Semino
+362,Luiz Felipe Scolari
+363,M. Piazza
+364,Manuel Keosseian
+365,Manuel Keosseián
+366,Manuel Pellegrini
+367,Marcelo Bielsa
+368,Marcelo Gallardo
+369,Marcelo Méndez
+370,Marcelo Méndez Amarilla
+371,Marcelo Russo
+372,Marcelo Saralegui
+373,Marco Giampaolo
+374,Marcos Villano
+375,Mariano Soso
+376,Mario Nicasio Zanabria
+377,Mario Saralegui
+378,Mario Saralegui Roja 75'
+379,Mario Szlafmyc
+380,Mario Tuani
+381,Martin Lasarte
+382,Martín Cicotello
+383,Martín García
+384,Martín Lasarte
+385,Martín Ligüera
+386,Martín Piñeyro
+387,Martín Varini
+388,Mathías Corujo
+389,Matías Rosa
+390,Mauricio Larriera
+391,Mauricio Pellegrino
+392,Maximiliano Viera
+393,Maximiliano Viera Amarilla
+394,Maximiliano Vizzio
+395,Miguel Angel Piazza
+396,Miguel Angel Puppo
+397,Miguel Falero
+398,Miguel Ignomiriello Roja 80'
+399,Miguel Messa
+400,Miguel Ponce
+401,Miguel Puppo
+402,Miguel Ángel Piazza
+403,Miguel Ángel Puppo
+404,Miguel Ángel Puppo Roja 10'
+405,Miguel Ángel Russo
+406,Muricy Ramalho
+407,Natanhiel Revetria
+408,Nathaniel Revetria
+409,Nelsinho Baptista
+410,Nelson González
+411,Nelson Martins
+412,Nery Pumpido
+413,Ney Morales
+414,Nicolás Vigneri
+415,Néstor Clausen
+416,Néstor Gonçálves
+417,O. Sosa
+418,O. Viera
+419,Obdulio Trasante
+420,Obdulio Varela
+421,Ondino Viera
+422,Oscar Aguirregaray
+423,Oscar Del Solar
+424,Oscar Ruggeri
+425,Oscar Tabárez
+426,Osvaldo Balseiro
+427,Osvaldo Canobbio
+428,Osvaldo Streccia
+429,Oswaldo Brandão
+430,Oswaldo de Oliveira
+431,Pablo Alonso
+432,Pablo De Ambrosio
+433,Pablo Fuentes
+434,Pablo Gaglianone
+435,Pablo Hernández
+436,Pablo Javier Bengoechea
+437,Pablo Lavallen
+438,Pablo Lavallén
+439,Pablo Marini
+440,Pablo Marini Amarilla
+441,Pablo Peirano
+442,Pablo Repetto
+443,Pablo Repetto Amarilla
+444,Pablo Rodríguez
+445,Pablo Tiscornia
+446,Pablo de Ambrosio
+447,Paolo Montero
+448,Paolo Parolin
+449,Patricio D'Amico
+450,Paulo Autuori
+451,Paulo Massa
+452,Paulo Massa Roja 32'
+453,Paulo Pezzolano
+454,Paulo Roberto Falcão
+455,Pedro Caixinha
+456,Pedro Gracia
+457,Pedro Llado
+458,Platko
+459,R. Paradela
+460,Rafael Milans
+461,Ramiro Martínez
+462,Ramón Díaz
+463,Ramón Rivas
+464,Ramón Silvera
+465,Randolph Galloway
+466,Raúl Blanco
+467,Raúl Moller
+468,Raúl Möller
+469,Raúl Salazar
+470,Reinaldo Rueda
+471,Renato Cesarini
+472,Ricardo Caruso Lombardi
+473,Ricardo Gareca
+474,Ricardo Möller
+475,Ricardo Ortiz
+476,Ricardo Ortíz
+477,Ricardo Zielinksi
+478,Ricardo Zielinski
+479,Richard Martínez
+480,Robert Lima
+481,Roberto Fleitas
+482,Roberto Mosquera
+483,Roberto Roo
+484,Roberto Saporiti
+485,Roberto Scarone
+486,Roberto Sensini
+487,Roberto Zapata
+488,Rodolfo Arruabarrena
+489,Rodolfo De Paoli
+490,Rodolfo Neme
+491,Rodrigo Bengua en lugar de Daniel Carreño
+492,Rodrigo López
+493,Roland Marcenaro
+494,Roland Marcenaro Amarilla
+495,Roland Marcenaro Roja 15'
+496,Román Cuello
+497,Ron Corry
+498,Ronald Marcenaro
+499,Roque Máspoli
+500,Rosario Martínez
+501,Ruben Da Silva
+502,Ruben Insúa
+503,Rúben Insúa
+504,Salvador Capitano
+505,Santiago Escobar
+506,Santiago Kalenkerian
+507,Santiago Ostolaza
+508,Santiago Ostolaza Roja 78'
+509,Santiago Ostolaza Roja 81'
+510,Santiago Paz
+511,Saúl Ongaro
+512,Saúl Rivero
+513,Sebastián Abreu
+514,Sebastián Beccacece
+515,Sebastián Díaz
+516,Sebastián Eguren
+517,Sebastián Taramasco
+518,Segundo Castillo
+519,Segundo González
+520,Sergio Batista
+521,Sergio Blanco
+522,Sergio Cabrera
+523,Sergio Markarian
+524,Sergio Silveira
+525,Sergio Silvera
+526,Sergio Silveyra
+527,Severino Varela
+528,Tabaré Silva
+529,Tiago Nunes
+530,Tite
+531,Tité
+532,Toza Veselinovic
+533,Tsiolis Sakis
+534,V. Espinosa
+535,V. Luxemburgo
+536,Vagner Mancini
+537,Valentín Villazán
+538,Vito Beato
+539,Vitor Pereira
+540,Vladimir Naidenov y Héctor Silva
+541,Vladimir Soria
+542,Voltaire García
+543,Vágner Mancini
+544,Víctor Cabrera
+545,Víctor Israel
+546,Víctor Púa
+547,W. Etchamendi
+548,W. Reaside
+549,Waldir Pereira
+550,Walter Mazarri
+551,Walter Olivera
+552,Walter Pandiani
+553,Walter Perazzo
+554,Walter Roque
+555,Walter Santolo
+556,Walter Zunino
+557,William Ramallo
+558,Wilmar Cabrera
+559,Wilmar Valencia
+560,Wim Rijsbergen
+561,Yubert Lemos
+562,Álvaro Fuerte
+563,Álvaro Gutiérrez
+564,Álvaro Navarro
+565,Álvaro Pintos
+566,Álvaro Recoba
+567,Ángel Castelnoble
+568,Ángel Labruna

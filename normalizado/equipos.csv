@@ -1,0 +1,552 @@
+equipo_id,nombre
+1,14 de Julho de Santa Ana (Bra)
+2,18 de Julio de Fray Bentos
+3,9 de Octubre (Ecu)
+4,A.D. Catuense (Bra)
+5,AEK Atenas (Gre)
+6,Ajax (Hol)
+7,Albacete (Esp)
+8,Albion F. C.
+9,Alianza Lima (Per)
+10,Alianza de Paso de los Toros
+11,Alianza de San Salvador (Sal)
+12,All Boys (Arg)
+13,Alto Perú
+14,Alumni de Córdoba (Arg)
+15,América (Mex)
+16,América Mineiro (Bra)
+17,América RJ (Bra)
+18,América de Cali (Col)
+19,Anderlecht (Bel)
+20,Anglo de Fray Bentos
+21,Antofagasta (Chi)
+22,Araguá (Ven)
+23,Argentinos Juniors (Arg)
+24,Aris Salonica (Gre)
+25,Arremón
+26,Arsenal (Arg)
+27,Artesano de Nueva Helvecia
+28,Artigas de Melo
+29,Aston Villa (Ing)
+30,Atalanta (Ita)
+31,Atenas de San Carlos
+32,Athletic de Bilbao (Esp)
+33,Athletico Paranaense (Bra)
+34,Atlanta (Arg)
+35,Atlante (Mex)
+36,Atlas (Mex)
+37,Atlético Cipolletti de Río Negro (Arg)
+38,Atlético Fernandino
+39,Atlético Madrid (Esp)
+40,Atlético Marbella (Esp)
+41,Atlético Mineiro (Bra)
+42,Atlético Nacional (Col)
+43,Atlético Paranaense (Bra)
+44,Atlético Potosino (Mex)
+45,Atlético San Cristóbal (Ven)
+46,Atlético Tucumán (Arg)
+47,Austria F.C. (Aus)
+48,Austria Viena (Aus)
+49,Avaí (Bra)
+50,Bahía (Bra)
+51,Banfield (Arg)
+52,Bangú (Bra)
+53,Barcelona (Ecu)
+54,Barcelona (Esp)
+55,Barcelona B (Esp)
+56,Bari (Ita)
+57,Barracas Central (Arg)
+58,Bartolomé Mitre (Arg)
+59,Basáñez
+60,Bayer Leverkusen (Ale)
+61,Belgrano (Arg)
+62,Bella Vista
+63,Bella Vista de Paysandú
+64,Bellusco (Ita)
+65,Benfica (Por)
+66,Blooming (Bol)
+67,Boca Juniors (Arg)
+68,Bolívar (Bol)
+69,Borussia Mönchengladbach (Ale)
+70,Boston River
+71,Botafogo (Bra)
+72,Bristol de Mercedes
+73,CYSSA - Juan Lacaze
+74,Cagliari (Ita)
+75,Canillitas
+76,Caracas (Ven)
+77,Cartagena (Esp)
+78,Castellón (Esp)
+79,Ceará (Bra)
+80,Celaya (Mex)
+81,Celtic (Esc)
+82,Central Español
+83,Central F.C.
+84,Central Norte (Arg)
+85,Central Palestino del Chuy
+86,Central de Colonia
+87,Central de San José
+88,Cerezo Osaka (Jap)
+89,Cerrito
+90,Cerro
+91,Cerro Corá (Par)
+92,Cerro Largo
+93,Cerro Porteño (Par)
+94,Cesena (Ita)
+95,Chacarita Juniors (Arg)
+96,Chaco Petrolero (Bol)
+97,Club Deportivo Fuengirola (Esp)
+98,Club Deportivo Guadalajara (Mex)
+99,Club Deportivo Técnico Universitario (Ecu)
+100,Club Naval (Chi)
+101,Cobreloa (Chi)
+102,Colegio San Agustín (Per)
+103,Colo Colo (Chi)
+104,Colón
+105,Colón de Santa Fe (Arg)
+106,Combinado Oro de Atlas (Mex)
+107,Combinado Peñarol/Bristol de Mercedes
+108,Combinado de Emperatríz / JV Lideral de Brasil (Bra)
+109,Combinado de Estudiantes de Caracas (Ven)
+110,Combinado de Fray Bentos/Laureles
+111,Combinado de Pelotas (Bra)
+112,Combinado de Santiago del Estero (Arg)
+113,Combinado de Universidad Católica y Universidad de Chile (Chi)
+114,"Combinado de Unión Juvenil, Racing y Peñarol de Durazno"
+115,Combinado de la Asociación Central (Chi)
+116,Combinado de la Mutual
+117,Combinado del Deportivo Miraflores de Valdivia (Chi)
+118,Comercial de Ribeirão Prieto (Bra)
+119,Comunicaciones (Gua)
+120,Con los Mismos Colores
+121,Corinthians (Bra)
+122,Cosmos (USA)
+123,Cristal Caldas (Col)
+124,Cruz Azul (Mex)
+125,Cruzeiro (Bra)
+126,Cruzeiro de Porto Alegre (Bra)
+127,Cádiz (Esp)
+128,Cúcuta Deportivo (Col)
+129,Danubio
+130,Defensa y Justicia (Arg)
+131,Defensor
+132,Defensor Sporting
+133,Defensor de Maldonado
+134,Delfín (Ecu)
+135,Deportes Iquique (Chi)
+136,Deportes Temúco (Chi)
+137,Deportivo Alavés (Esp)
+138,Deportivo Anzoátegui (Ven)
+139,Deportivo Cali (Col)
+140,Deportivo Canarias (Ven)
+141,Deportivo Colonia
+142,Deportivo Cuenca (Ecu)
+143,Deportivo Español (Esp)
+144,Deportivo Galicia (Ven)
+145,Deportivo Italia (Ven)
+146,Deportivo La Coruña (Esp)
+147,Deportivo Maldonado
+148,Deportivo Morón (Arg)
+149,Deportivo Municipal (Bol)
+150,Deportivo Municipal (Per)
+151,Deportivo Neza (Mex)
+152,Deportivo Politécnico (Ecu)
+153,Deportivo Portugués (Ven)
+154,Deportivo Quito (Ecu)
+155,Deportivo Saprissa (CosRic)
+156,Deportivo Táchira (Ven)
+157,Dinamo de Kiev (URSS)
+158,Dinamo de Zagreb (Yug)
+159,Dnipró (URSS)
+160,Dynamo Zagreb (Yug)
+161,El Dorado (Arg)
+162,El General de Colonia
+163,El Nacional (Ecu)
+164,El Tanque
+165,El Tanque Sisley
+166,Emelec (Ecu)
+167,Estación de Minas
+168,Estrella Roja (Yug)
+169,Estudiantes de La Plata (Arg)
+170,Estudiantes de Mérida (Ven)
+171,Estudiantes de Rosario
+172,Everest (Ecu)
+173,Everton (Chi)
+174,Everton/Wanderers (Chi)
+175,F.C. La Chaux de Fonds (Sui)
+176,Ferencvaros (Hun)
+177,Ferro Carril Oeste (Arg)
+178,Ferroviario (Bra)
+179,Feyenoord (Hol)
+180,First Vienna (Aus)
+181,Flamengo (Bra)
+182,Floriano de Novo Hamburgo (Bra)
+183,Fluminense (Bra)
+184,Fraternidad
+185,Fray Bentos F.C.
+186,Frontera Rivera
+187,Fénix
+188,GC Biaschesi (Sui)
+189,Getafe (Esp)
+190,Gimnasia de Jujuy (Arg)
+191,Gimnasia y Esgrima La Plata (Arg)
+192,Gimnasia y Esgrima de Entre Ríos (Arg)
+193,Gimnasia y Esgrima de Mendoza (Arg)
+194,Godoy Cruz (Arg)
+195,Goiás (Bra)
+196,Granada (Esp)
+197,Grasshoppers (Sui)
+198,Grêmio (Bra)
+199,Grêmio Bagé (Bra)
+200,Grêmio Santanense (Bra)
+201,Guadalajara (Mex)
+202,Guaraní (Par)
+203,Génova (Ita)
+204,Hamburgo (Ale)
+205,Herediano (Cos Ric)
+206,Honved (Hun)
+207,Huracán (Arg)
+208,Huracán Buceo
+209,Huracán de Paso de la Arena
+210,Hércules (Esp)
+211,Ilhwa Chunma (CdS)
+212,Independiente (Arg)
+213,Independiente Medellín (Col)
+214,Independiente Santa Fe (Col)
+215,Ingenieria (Ven)
+216,Ingenio Ledesma de Jujuy (Arg)
+217,Internacional (Bra)
+218,Internacional Santa María (Bra)
+219,Internazionale (Ita)
+220,Irapuato (Mex)
+221,Ituzaingó de Maldonado
+222,Jorge Wilstermann (Bol)
+223,Jubilo Iwata (Jap)
+224,Junior (Col)
+225,Juvenil F.C. Durazno
+226,Juventud Italiana (Ecu)
+227,Juventud de Colonia
+228,Juventud de Las Piedras
+229,Juventude Caxias (Bra)
+230,Juventus (Ita)
+231,Kidderpore (Ind)
+232,Kingfisher East Bengal (Ind)
+233,Kispest Honved (Hun)
+234,L.D.U Quito (Ecu)
+235,LIverpool
+236,La Luz
+237,Lanus (Arg)
+238,Lanús (Arg)
+239,Las Delicias de Minas
+240,Las Palmas (Esp)
+241,Las Piedras F.C.
+242,Lazio (Ita)
+243,Levante (Esp)
+244,Levski Spartak (Bul)
+245,León (Mex)
+246,Libertad (Par)
+247,Libertad de Canelones
+248,Libertad de San Carlos
+249,Liga Deportiva Alajuelense (Cos Ric)
+250,Linares (Esp)
+251,Liverpool
+252,Liverpool de Rocha
+253,Livorno (Ita)
+254,Loma Negra (Arg)
+255,Los Ángeles FC (USA)
+256,Lérida (Esp)
+257,Maccabi Haifa (Isr)
+258,Magallanes (Chi)
+259,Manchester United (Ing)
+260,Mar de Fondo
+261,Marathon (Hon)
+262,Marconi Stallyons (Aus)
+263,Miami United (USA)
+264,Milan (Ita)
+265,Millonarios (Col)
+266,Miramar Misiones
+267,Misiones F.C.
+268,Mita Uruguay Montevideo
+269,Mitre de Santiago del Estero (Arg)
+270,Mohammedan S.C. de Dhaka (Ban)
+271,Montevideo City Torque
+272,Montevideo Wanderers
+273,Morelia (Mex)
+274,Motagua (Hon)
+275,Málaga (Esp)
+276,Nacional
+277,Nacional (Par)
+278,Nacional de Fray Bentos
+279,Nacional de Tacuarembó
+280,Napoli (Ita)
+281,Naranjo de Melo
+282,Necaxa (Mex)
+283,Newell's Old Boys (Arg)
+284,Norrköping (Sue)
+285,Nuevos Horizontes de Nueva Helvecia
+286,Náutico de Recife (Bra)
+287,OFK Belgrado (Yug)
+288,Olimpia (Par)
+289,Olimpia de Melo
+290,Olimpo (Arg)
+291,Olivol F.C.
+292,Olympiakos (Gre)
+293,Oriental de Tacuarembó
+294,Oriente Petrolero (Bol)
+295,Osasuna (Esp)
+296,PSV Eindhoven (Hol)
+297,Palestino (Chi)
+298,Palmeiras (Bra)
+299,Parma (Ita)
+300,Partizan (Yug)
+301,Patria (Ecu)
+302,Paysandú - PA (Bra)
+303,Paysandú Bella Vista
+304,Paysandú F.C.
+305,Peñarol
+306,Peñarol Universitario
+307,Peñarol de Castillos
+308,Peñarol de Colonia
+309,Peñarol de Dolores
+310,Peñarol de Florida
+311,Peñarol de Lañas (Esp)
+312,Peñarol de Lezcano
+313,Peñarol de Maldonado
+314,Peñarol de Mercedes
+315,Peñarol de Nueva Palmira
+316,Peñarol de Paso de los Toros
+317,Peñarol de Rivera
+318,Peñarol de Rocha
+319,Peñarol de Salto
+320,Peñarol de Tacuarembó
+321,Peñarol de Young
+322,Peñarol del Chuy
+323,Pinerolo (Ita)
+324,Piriápolis F.C.
+325,Platense (Arg)
+326,Plaza Colonia
+327,Porongos de Flores
+328,Porto (Por)
+329,Porto Viejo L.D. (Ecu)
+330,Portuguesa (Ven)
+331,Portuguesa Santista (Bra)
+332,Portuguesa de Desportos (Bra)
+333,Pre Selección de Uruguay
+334,Pre Selección de Uruguay B
+335,Presidente Hayes (Par)
+336,Progreso
+337,Progreso de Colonia
+338,Pumas UNAM (Mex)
+339,Punta del Este
+340,Quilmes (Arg)
+341,Quilmes de Florida
+342,Racing
+343,Racing (Fra)
+344,Racing Club (Arg)
+345,Racing de Mercedes
+346,Radnicky (Yug)
+347,Rajá de Beni Mellal (Mar)
+348,Rampla Juniors
+349,Rangers (Chi)
+350,Rapid Viena (Aus)
+351,Rayo Vallecano (Esp)
+352,Real Betis (Esp)
+353,Real Madrid (Esp)
+354,Real Murcia (Esp)
+355,Real Oviedo (Esp)
+356,Real Potosí (Bol)
+357,Real Sociedad (Esp)
+358,Real Sociedad de Gimnástica de Torrelavega (Esp)
+359,Real Zaragoza (Esp)
+360,Remo de Belén (Bra)
+361,Rentistas
+362,River Plate
+363,River Plate (Arg)
+364,River Plate (Par)
+365,River Plate de Paysandú
+366,Rocha
+367,Roma (Ita)
+368,Rosario Central (Arg)
+369,Rot-Weiss Essen (Ale)
+370,Ruch Chorzow (Pol)
+371,Río Negro de San José
+372,Saint Etienne (Fra)
+373,Salamanca (Esp)
+374,Salto Uruguay
+375,Salus
+376,Sampdoria (Ita)
+377,San Antonio Bulo Bulo (Bol)
+378,San Carlos de Colonia
+379,San Eugenio de Artigas
+380,San José Oruro (Bol)
+381,San Lorenzo (Arg)
+382,San Lorenzo de Catamarca (Arg)
+383,San Lorenzo de San José
+384,San Martín de Tucumán (Arg)
+385,San Salvador de Melo
+386,Sandú Chico de Mercedes
+387,Santa Bernardina de Durazno
+388,Santa Cruz (Bra)
+389,Santiago Wanderers (Chi)
+390,Santos (Bra)
+391,Santos Laguna (Mex)
+392,Sarandí de Colonia
+393,Seattle Sounders (USA)
+394,Selección A de la 3ra. División Extra
+395,Selección Artigas
+396,Selección Cordobesa (Arg)
+397,Selección Gaúcha del Interior (Bra)
+398,Selección Helvética
+399,Selección Liga Universitaria
+400,Selección Liga Universitaria (Ecu)
+401,Selección Ligas Federadas de Maldonado
+402,Selección Ligas del Este
+403,Selección OFI
+404,Selección Olímpica de Guatemala (Gua)
+405,Selección Olímpica de Polonia (Pol)
+406,Selección Olímpica de Rumania (Rum)
+407,Selección Pre Olímpica de Paraguay (Par)
+408,Selección Universitaria
+409,Selección Uruguaya Pre Olímpica
+410,Selección de 4ta. División
+411,Selección de Alemania Oriental (Ale)
+412,Selección de Armenia (Arm)
+413,Selección de Artigas
+414,Selección de Bolivia (Bol)
+415,Selección de Canelones
+416,Selección de Canelones del Este
+417,Selección de Canelones del Sur
+418,Selección de Carmelo
+419,Selección de Ceará (Bra)
+420,Selección de Cerro Largo
+421,Selección de Chile (Chi)
+422,Selección de Chile Sub 23 (Chi)
+423,Selección de China (Chin)
+424,Selección de Clubes Menores
+425,Selección de Colonia
+426,Selección de Colonia Interior
+427,Selección de Concordia (Arg)
+428,Selección de Corea del Sur (CdS)
+429,Selección de Durazno
+430,Selección de Dynamos (URSS)
+431,Selección de Ecuador (Ecu)
+432,Selección de El Salvador (Sal)
+433,Selección de Flores
+434,Selección de Florida
+435,Selección de Florida B
+436,Selección de Francia (Fra)
+437,Selección de Fray Bentos
+438,Selección de Guatemala (Gua)
+439,Selección de Haití (Hai)
+440,Selección de Honduras (Hon)
+441,Selección de Hong Kong (HK)
+442,Selección de Hungría (Hun)
+443,Selección de Juan L. Lacaze
+444,Selección de Juan Lacaze Juvenil
+445,Selección de Lavalleja
+446,Selección de Maldonado
+447,Selección de Mexico (Mex)
+448,Selección de Mérida (Ven)
+449,Selección de Pará (Bra)
+450,Selección de Paso de los Toros
+451,Selección de Paysandú
+452,Selección de Pernambuco (Bra)
+453,Selección de Perú (Per)
+454,Selección de Pichincha (Ecu)
+455,Selección de Rio Negro
+456,Selección de Rivera
+457,Selección de Rocha
+458,Selección de Salto
+459,Selección de San José
+460,Selección de Senegal (Sen)
+461,Selección de Soriano
+462,Selección de Soriano Interior
+463,Selección de Tacuarembó
+464,Selección de Temuco (Chi)
+465,Selección de Treinta y Tres
+466,Selección de Tucumán (Arg)
+467,Selección de Unión Soviética (URSS)
+468,Selección de Uruguay
+469,Selección de Uruguay A
+470,Selección de Uruguay B
+471,Selección de Uruguay Sub 20
+472,Selección de Venezuela (Ven)
+473,Selección de la Divisional B
+474,Selección de la Divisional Intermedia
+475,Selección de los Barrios de Colonia
+476,Semillero Nacional de Colonia
+477,Sevilla (Esp)
+478,Shakhtar Donetsk (URSS)
+479,Shanghai Shenhua FC (Chin)
+480,Sloboda Tuzla (Yug)
+481,Sol de América (Par)
+482,Sparta Praga (Che)
+483,Spartak Sobotica (Yug)
+484,Sport Boys (Per)
+485,Sport Grêmio Pelotas (Bra)
+486,Sport Huancayo (Per)
+487,Sporting Cristal (Per)
+488,Sporting Lisboa (Por)
+489,Sportivo Italiano
+490,Sportivo Italiano/El Tanque
+491,Sportivo Luqueño (Par)
+492,Sportivo Miramar
+493,Sportivo Pelotas (Bra)
+494,Stade Reims (Fra)
+495,Standard Lieja (Bel)
+496,Steaua Bucarest (Rum)
+497,Sud América
+498,São Caetano (Bra)
+499,São Cristovão (Bra)
+500,São Luiz de Ijuí (Bra)
+501,São Paulo (Bra)
+502,TJ Internacional Slovnaft Bratislava (Che)
+503,Tacuarembó
+504,Tacuary (Par)
+505,Talleres de Córdoba (Arg)
+506,Tampico (Mex)
+507,Tenerife (Esp)
+508,The Strongest (Bol)
+509,Tigre (Arg)
+510,Tigres (Mex)
+511,Tigres Sub 21 (Mex)
+512,Toluca (Mex)
+513,Torino (Ita)
+514,Torpedo Moskva (URSS)
+515,Toshiba (Jap)
+516,Ujpest Dodza (Hun)
+517,Ulsan Hyundai (CdS)
+518,Universal de San José
+519,Universidad Autónoma de Guadalajara (Mex)
+520,Universidad Católica (Chi)
+521,Universidad Católica Sub 19 (Chi)
+522,Universidad de Chile (Chi)
+523,Universidad de Los Andes Mérida (Ven)
+524,Universitario (Per)
+525,Universitario de Salto
+526,Unión Española (Chi)
+527,Unión Huaral (Per)
+528,Unión de Santa Fe (Arg)
+529,Urawa Red Diamonds (Jap)
+530,Uruguay de Bella Unión
+531,Vaduz (Lie)
+532,Valencia (Esp)
+533,Valencia (Ven)
+534,Valle Miñor
+535,Vardar (MdN)
+536,Vardar Scopje (Yug)
+537,Vasas (Hun)
+538,Vasco da Gama (Bra)
+539,Videoton (Hun)
+540,Villa Española
+541,Villa Teresa
+542,Villarreal (Esp)
+543,Vitória Setúbal (Por)
+544,Vélez Mostrar (Yug)
+545,Vélez Sarsfield (Arg)
+546,Wanderers de Durazno
+547,Wanderers de Las Piedras
+548,Wanderers/Concordia (Arg)
+549,Wollongong Wolves (Aus)
+550,Zenit (URSS)
+551,Ñublense (Chi)
